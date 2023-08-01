@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzarasheed26&label=Profile%20views&color=0e75b6&style=flat" alt="hamzarasheed26" /> </p>
 
 
-- 🔭 I’m currently working on **Flutter Mobile App Development.**
+- 🔭 I’m currently working on **Web Development.**
 
-- 🌱 I’m currently learning **Database and Operating System.**
+- 🌱 I’m currently learning **AI/ML and MERN Stack.**
 
 - 👯 I’m looking to collaborate on **open source projects.**
 
